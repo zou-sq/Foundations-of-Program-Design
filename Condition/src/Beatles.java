@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Beatles 
 {
 	public static void main(String[] args) 
-	{`	
+	{	
 		ArrayList<String> band = new ArrayList<String>();
 		
 		band.add("Paul");
